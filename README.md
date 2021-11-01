@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help and collaborate with Hackathon projects
 - 💬 Ask me about Web dev
-- 📫 How to reach me: @arunkarthicknm@gmail.com
+- 📫 How to reach me: arunkarthicknm@gmail.com
 - 🤝 Connect with me: https://www.linkedin.com/in/arunkarthicknm/
 
 
